@@ -1,0 +1,6 @@
+Open Source Manifesto
+Generated on: 28 March 2026
+
+I use Git every day, and it represents the idea of Sharing in software.
+I believe knowledge should be shared openly so that everyone can learn and improve together.
+In the future, I would build A developer collaboration platform and release it as open source for the community.
